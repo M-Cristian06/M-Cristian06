@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-cristian06&label=Profile%20views&color=0e75b6&style=flat" alt="m-cristian06" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django/python**
 
 - 📫 How to reach me **mironcristianionel@gmail.com**
 
