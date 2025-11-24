@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm M. Cristian</h1>
-<h3 align="center">A passionate django developer from Romania</h3>
+<h3 align="center">A passionate Python developer from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-cristian06&label=Profile%20views&color=0e75b6&style=flat" alt="m-cristian06" /> </p>
 
