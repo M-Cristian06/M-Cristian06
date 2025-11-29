@@ -5,9 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-cristian06&label=Profile%20views&color=0e75b6&style=flat" alt="m-cristian06" /> </p>
 
-- 🌱 I’m currently learning **Django/python**
+- 🌱 I’m currently working with **Django/Python** on a project named **Z-NET** Ecosystem
 
-- 📫 How to reach me **mironcristianionel@gmail.com**
+- 📫 How to reach me:
+- **Email:** mironcristianionel@gmail.com 
+- **Likedin:** https://www.linkedin.com/in/miron-cristian-3a34b4389/
+- **Instagram:** https://www.instagram.com/m__cristian
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
