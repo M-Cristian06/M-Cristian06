@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm M. Cristian</h1>
-<h3 align="center">Python developer from Romania</h3>
+<h3 align="center">Self-taught Junior Software Engineer from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-cristian06&label=Profile%20views&color=0e75b6&style=flat" alt="m-cristian06" /> </p>
-
-- 🌱 I’m currently working with **Django/Python** on a project named **Z-NET** Ecosystem
 
 - 📫 How to reach me:
 - **Email:** mironcristianionel@gmail.com 
