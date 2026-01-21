@@ -11,8 +11,8 @@ Hello, World! I'm M. Cristian (Miron Cristian), a self-taught Junior Software En
 ## 📈 Activity:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M-Cristian06&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 📊 Stats:
+![M-Cristian06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Cristian06&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
