@@ -13,7 +13,7 @@ Hello, World! I'm M. Cristian (Miron Cristian), a self-taught Junior Software En
 
 ### 📊 Stats:
 ![M-Cristian06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Cristian06&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
+![M-Cristian06's Stats](https://github-readme-stats.vercel.app/api?username=M-Cristian06&theme=dark&show_icons=true&hide_border=false&count_private=false)
 ---
 
 
