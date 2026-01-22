@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, World! I'm M. Cristian (Miron Cristian), a self-taught Junior Software Engineer passionate about systems, problem-solving, and learning new technologies. <br>I enjoy breaking things just to understand how to build them better.<br><br>
+Hello, World! I'm M. Cristian (Miron Cristian), a Self-taught aspiring software engineer passionate about systems, problem-solving, and learning new technologies. <br>I enjoy breaking things just to understand how to build them better.<br><br>
 
 
 ## 🌐 Socials:
