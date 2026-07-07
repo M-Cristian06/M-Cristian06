@@ -1,5 +1,7 @@
 # About Me:
-Hello, World! I'm M. Cristian, a Self-taught software engineer passionate about systems, problem-solving, and learning new technologies. <br>I enjoy breaking things just to understand how to build them better.<br><br>
+Software Engineer specializing in Python backend architectures and data processing pipelines. Hands-on experience engineering high-throughput, asynchronous
+APIs using FastAPI and building production-ready AI infrastructure solutions for LLM context optimization (RAG). Proven track record of developing advanced web
+scraping engines that bypass complex bot detection mechanisms using curl_cffi.
 
 
 # Follow me:
